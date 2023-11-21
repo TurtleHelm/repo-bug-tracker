@@ -6,7 +6,7 @@
 
 - [ ] Issue with icons not showing
 
-#### [Learning Page](https://github.com/TurtleHelm/learning)
+### [Learning Page](https://github.com/TurtleHelm/learning)
 
 - [ ] Issues with images being too big on PC & too small on mobile
 
